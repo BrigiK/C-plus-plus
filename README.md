@@ -8,3 +8,7 @@ In the snake game I have created 4 methods: one for game setup, one to draw the 
 
 
 ![alt text](https://github.com/BrigiK/C-plus-plus/blob/master/SnakeGame/snake.png)
+
+# Scale
+Implemented the Scale class. A scale has a maximum admissible capacity. If we try weighing an object that exceeds 10% the maximum allowed capacity, then the program will return a WarningExceedingWeight exception, and if it overcomes this limit, it will generate the error
+ExceededWeight.
